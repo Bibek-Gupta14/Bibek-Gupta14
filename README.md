@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis course**
+- 🌱 I’m currently learning **Data Science course**
 
 - 📫 How to reach me **biplabgupta50@gmail.com**
 
