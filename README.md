@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
-<h3 align="center">A passionate FullStack Web Developer and a Data Analyst enthusiast.</h3>
+<h3 align="center">A passionate FullStack Web Developer, ML Virtual Intern and a Data Analyst enthusiast.</h3>
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
