@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **biplabgupta50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iA5o-1y-LFLT4YY_oNXAKw3XcVFy_Mms/view?usp=drive_link](https://drive.google.com/file/d/1iA5o-1y-LFLT4YY_oNXAKw3XcVFy_Mms/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UOW9M3Ue80N9uafrxARc53TuBdY5z_Rb/view?usp=drive_link](https://drive.google.com/file/d/1UOW9M3Ue80N9uafrxARc53TuBdY5z_Rb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
