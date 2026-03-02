@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
-<h3 align="center">A passionate FullStack Web Developer, ML Virtual Intern and a Data Analyst enthusiast.</h3>
+<h3 align="center">A passionate GenAI/ML enthusiast, Aspiring SDE, Web Developer and a ML Virtual Intern</h3>
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science course**
+- 🌱 I’m currently gaining experiences in  **GenAI and Multi-Agents**
 
-- 📫 How to reach me **biplabgupta50@gmail.com**
+- 📫 How to reach me **bibekgupta1406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UOW9M3Ue80N9uafrxARc53TuBdY5z_Rb/view?usp=drive_link](https://drive.google.com/file/d/1UOW9M3Ue80N9uafrxARc53TuBdY5z_Rb/view?usp=drive_link)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1xjxSwpqjEbmzX_VpsSBjzpIVZaeLPBnC/view?usp=drive_link) 👈🏼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
