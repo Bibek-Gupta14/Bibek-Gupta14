@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
-<h3 align="center">A passionate GenAI/ML enthusiast, Aspiring SDE, Web Developer and a ML Virtual Intern</h3>
+<h3 align="center">Summer Intern @NIC, A passionate GenAI/ML enthusiast, Aspiring SDE, ML Virtual Intern</h3>
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
