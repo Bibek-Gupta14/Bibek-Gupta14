@@ -432,11 +432,6 @@ Postman <br><br>
 
 </table>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Bibek-Gupta14&theme=darcula&hide_border=false) &nbsp; 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek-Gupta14&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Bibek-Gupta14&theme=darcula&hide_border=false&include_all_commits=false&count_private=false) 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bibek-Gupta14&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
@@ -444,17 +439,11 @@ Postman <br><br>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bibek-Gupta14&theme=apprentice&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=Bibek-Gupta14&theme=buefy" 
     height="280em"
   />
 </p>
 
-<p>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibek-Gupta14&theme=moltack"
-    width="95%"
-  />
-</p>
 <h2 align="center">📊 GitHub Summary</h2>
 
 <table >
@@ -489,6 +478,13 @@ Postman <br><br>
 </td>
 </tr>
 </table>
+
+<p>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibek-Gupta14&theme=moltack"
+    width="95%"
+  />
+</p>
 <h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
