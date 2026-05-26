@@ -6,7 +6,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
-<h3 align="center">Summer Intern @NIC, A passionate GenAI/ML enthusiast, Aspiring SDE, ML Virtual Intern</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFEA00&center=true&vCenter=true&width=800&lines=Passionate+GenAI+Developer;Multi-Agent+Systems+Builder;Aspiring+Software+Engineer;Summer+Intern+@NIC" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
@@ -202,9 +204,6 @@ GitHub <br><br>
 </tr>
 
 </table>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bebo__o__o) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bibekgupta14)&nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bibekgupta1406)&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biplabgupta50@gmail.com) 
 
 <h2 align="center">💻 Tech Stack & AI Tools</h2>
 
@@ -431,11 +430,8 @@ Postman <br><br>
 </tr>
 
 </table>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bibek-Gupta14&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-<h2 align="center">📊 GitHub Statistics</h2>
+<br></br>
+<h1 align="center">📊 GitHub Statistics</h1>
 
 <p align="center">
   <img 
