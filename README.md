@@ -48,8 +48,7 @@ width="60"/>
 Kaggle <br><br>
 <a href="https://kaggle.com/bibekgupta14" target="_blank">
 <img 
-src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" 
-width="60"/>
+src="https://w7.pngwing.com/pngs/589/699/png-transparent-kaggle-logo-tech-companies.png" width="80"/>
 </a>
 </td>
 
@@ -66,7 +65,7 @@ width="60"/>
 LeetCode <br><br>
 <a href="https://leetcode.com/u/bibek_gupta/" target="_blank">
 <img 
-src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" 
+src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" 
 width="60"/>
 </a>
 </td>
@@ -75,12 +74,76 @@ width="60"/>
 GeeksforGeeks <br><br>
 <a href="https://auth.geeksforgeeks.org/user/biplabg5a78" target="_blank">
 <img 
-src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" 
+src="https://upload.wikimedia.org/wikipedia/commons/e/eb/GeeksForGeeks_logo.png" 
 width="60"/>
 </a>
 </td>
 
 </tr>
+</table> <br>
+
+<h2 align="center"> Integrated Development Environment</h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="120" style="padding:15px;">
+VSC <br><br>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img 
+src="https://skillicons.dev/icons?i=vscode" 
+width="70"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:15px;">
+Antigravity <br><br>
+<a href="https://antigravity.google/" target="_blank">
+<img 
+src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" 
+width="65"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:15px;">
+IntelliJ <br><br>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img 
+src="https://img.icons8.com/?size=512&id=61466&format=png" 
+width="70"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:10px;">
+JetBrains <br><br>
+<a href="https://www.jetbrains.com/" target="_blank">
+<img 
+src="https://logowik.com/content/uploads/images/jetbrains-new-20249012.logowik.com.webp" 
+width="110"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:15px;">
+PyCharm <br><br>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+<img 
+src="https://skillicons.dev/icons?i=pycharm" 
+width="70"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:15px;">
+Kiro <br><br>
+<a href="https://kiro.dev/" target="_blank">
+<img 
+src="https://www.google.com/s2/favicons?domain=kiro.dev&sz=128" 
+width="80"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 </table>
 <h2 align="center">💻 Languages & Tools</h2>
@@ -89,32 +152,17 @@ width="60"/>
 
 <!-- ROW 1 -->
 <tr>
-
-<td align="center" width="120" style="padding:10px;">
-CSS3 <br><br>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
-</a>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-ExpressJS <br><br>
-<a href="https://expressjs.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" width="60"/>
-</a>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-HTML5 <br><br>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
-</a>
-</td>
-
 <td align="center" width="120" style="padding:10px;">
 Java <br><br>
 <a href="https://www.java.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+</a>
+</td>
+
+<td align="center" width="120" style="padding:10px;">
+Python <br><br>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
 </a>
 </td>
 
@@ -126,16 +174,9 @@ JavaScript <br><br>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
-MongoDB <br><br>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
-</a>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-MySQL <br><br>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+ExpressJS <br><br>
+<a href="https://expressjs.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="60"/>
 </a>
 </td>
 
@@ -143,6 +184,21 @@ MySQL <br><br>
 NodeJS <br><br>
 <a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
+</a>
+</td><td align="center" width="120" style="padding:10px;">
+MongoDB <br><br>
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+</td>
+
+<td align="center" width="120" style="padding:10px;">
+MySQL <br><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+</td>
+
+<td align="center" width="120" style="padding:10px;">
+CSS3 <br><br>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
 </a>
 </td>
 
@@ -152,16 +208,17 @@ NodeJS <br><br>
 <tr>
 
 <td align="center" width="120" style="padding:10px;">
-Oracle <br><br>
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60"/>
+HTML5 <br><br>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
 </a>
 </td>
 
+
 <td align="center" width="120" style="padding:10px;">
-Python <br><br>
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+Oracle <br><br>
+<a href="https://www.oracle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60"/>
 </a>
 </td>
 
@@ -204,7 +261,7 @@ GitHub <br><br>
 </tr>
 
 </table>
-
+<br></br>
 <h2 align="center">💻 Tech Stack & AI Tools</h2>
 
 <table align="center">
@@ -234,17 +291,17 @@ Qwen <br><br>
 
 <td align="center" width="120" style="padding:10px;">
 Google AI Studio <br><br>
-<img src="https://pbs.twimg.com/profile_images/1957558782067896323/6jXpPKD4.png" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/google-ai-studio.webp" width="60"/>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
 Groq <br><br>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/groq.png" width="60"/>
+<img src="https://www.primarymarkets.com/wp-content/uploads/2024/05/Groq-circle-logo-1.png" width="80"/>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
 Grok <br><br>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/grok.png" width="60"/>
+<img src="https://pbs.twimg.com/media/GkMq4DVbwAAvpgh.png" width="80"/>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
@@ -282,10 +339,6 @@ Multi-Agent AI <br><br>
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="60"/>
 </td>
 
-<td align="center" width="120" style="padding:10px;">
-PyTorch <br><br>
-<img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
-</td>
 
 <td align="center" width="120" style="padding:10px;">
 TensorFlow <br><br>
@@ -293,8 +346,13 @@ TensorFlow <br><br>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
-Scikit Learn <br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+Git <br><br>
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+</td>
+
+<td align="center" width="120" style="padding:10px;">
+GitHub <br><br>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </td>
 
 </tr>
@@ -379,8 +437,8 @@ Docker <br><br>
 
 
 <td align="center" width="120" style="padding:10px;">
-Inference APIs <br><br>
-<img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="60"/>
+Postman <br><br>
+<img src="https://skillicons.dev/icons?i=postman" width="60"/>
 </td>
 
 <td align="center" width="120" style="padding:10px;">
@@ -389,47 +447,8 @@ AI Automation <br><br>
 </td>
 
 </tr>
-
-<!-- ROW 3 -->
-<tr>
-
-<td align="center" width="120" style="padding:10px;">
-Python <br><br>
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-JavaScript <br><br>
-<img src="https://skillicons.dev/icons?i=js" width="60"/>
-</td>
-<td align="center" width="120" style="padding:10px;">
-MongoDB <br><br>
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-MySQL <br><br>
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-Git <br><br>
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
-</td>
-
-<td align="center" width="120" style="padding:10px;">
-GitHub <br><br>
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-</td>
-
-
-<td align="center" width="120" style="padding:10px;">
-Postman <br><br>
-<img src="https://skillicons.dev/icons?i=postman" width="60"/>
-</td>
-</tr>
-
 </table>
+
 <br></br>
 <h1 align="center">📊 GitHub Statistics</h1>
 
@@ -439,6 +458,7 @@ Postman <br><br>
     height="280em"
   />
 </p>
+<br></br>
 
 <h2 align="center">📊 GitHub Summary</h2>
 
