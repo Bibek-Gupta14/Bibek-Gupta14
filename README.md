@@ -1,14 +1,35 @@
 <p align="center">
   <img 
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06142E,100:0B66C3&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:2E6430,100:A1E8AF&text=WELCOME%20TO%20MY%20PROFILE&fontFamily=Comic%20Sans%20MS&animation=twinkling&fontColor=06142E&fontSize=40&height=100&section=header"
   />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
+
+<h3 align="center">
+🚀 GenAI Developer | 🤖 Multi-Agent Systems Builder | 💻 Aspiring Software Engineer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFEA00&center=true&vCenter=true&width=800&lines=Passionate+GenAI+Developer;Multi-Agent+Systems+Builder;Aspiring+Software+Engineer;Summer+Intern+@NIC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Passionate+GenAI+Developer;Multi-Agent+Systems+Builder;Aspiring+Software+Engineer;Summer+Intern+%40+NIC" />
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Bibek-Gupta14/Bibek-Gupta14">
+    <picture>
+      <img
+        alt="Bibek's GitHub Profile README"
+        src="https://raw.githubusercontent.com/Bibek-Gupta14/Bibek-Gupta14/main/light_mode.svg"
+        width="100%"
+      />
+    </picture>
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
@@ -16,9 +37,20 @@
 
 - 🌱 Gaining experiences in  **GenAI and Multi-Agent Systems**
 
-- 📫 How to reach me **bibekgupta1406@gmail.com**
+<br>
 
-- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1V6oDXD8lVnVmPp-LdzuKEZbkesa3PBU7/view?usp=drive_link) 👈🏼
+<p align="center">
+  <!-- Resume Badge -->
+  <a href="https://drive.google.com/file/d/1V6oDXD8lVnVmPp-LdzuKEZbkesa3PBU7/view?usp=drive_link" target="_blank" style="margin-right: 300px;">
+    <img src="https://img.shields.io/badge/📖_KNOW_ABOUT_MY_EXPERIENCES--FF0055?style=for-the-badge&labelColor=990022" alt="Resume Link" height="500px">
+  </a>
+
+  <!-- Email Badge -->
+  <a href="mailto:bibekg1406@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️_GET_IN_TOUCH:_SEND_AN_EMAIL--0078D4?style=for-the-badge&labelColor=004578" alt="Email Link" height="50">
+  </a>
+</p>
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -454,7 +486,7 @@ AI Automation <br><br>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Bibek-Gupta14&theme=buefy" 
+    src="https://streak-stats.demolab.com?user=Bibek-Gupta14&theme=javascript" 
     height="280em"
   />
 </p>
@@ -505,16 +537,8 @@ AI Automation <br><br>
 
 <p align="center">
   <img 
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek-Gupta14&theme=react-dark&hide_border=true&area=true"
-  />
-</p>
-
-
-<p align="center">
-  <img 
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06142E,100:0B66C3&height=120&section=footer"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek-Gupta14&theme=react-dark&hide_border=true&area=true"
   />
 </p>
 
