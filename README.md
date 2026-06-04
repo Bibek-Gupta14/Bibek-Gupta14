@@ -481,17 +481,7 @@ AI Automation <br><br>
 </tr>
 </table>
 
-<br></br>
-<h1 align="center">📊 GitHub Statistics</h1>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Bibek-Gupta14&theme=javascript" 
-    height="280em"
-  />
-</p>
-<br></br>
-
+<br>
 <h2 align="center">📊 GitHub Summary</h2>
 
 <table >
