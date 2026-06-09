@@ -479,7 +479,7 @@ AI Automation <br><br>
 </td>
 
 </tr>
-</table>
+</table></br>
 
 <h1 align="center">📊 GitHub Statistics</h1>
 <p align="center">
@@ -488,9 +488,8 @@ AI Automation <br><br>
     height="280em"
   />
 </p>
-<br></br>
-
 <br>
+
 <h2 align="center">📊 GitHub Summary</h2>
 
 <table >
@@ -524,20 +523,21 @@ AI Automation <br><br>
 />
 </td>
 </tr>
-</table>
+</table> <br>
 
+<h2 align="center">📈 Activity Graph</h2>
 <p>
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibek-Gupta14&theme=moltack"
     width="95%"
   />
-</p>
-<h1 align="center">📈 Contribution Graph</h1>
+</p> <br>
+<h2 align="center">🖥️ Contribution Graph</h2>
 
 <p align="center">
   <img 
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek-Gupta14&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek-Gupta14&theme=coral&hide_border=true&area=true"
   />
 </p>
 
