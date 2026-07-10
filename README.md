@@ -234,7 +234,6 @@ CSS3 <br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
 </a>
 </td>
-
 </tr>
 
 <!-- ROW 2 -->
