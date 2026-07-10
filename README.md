@@ -6,6 +6,7 @@
 </p>
 
 
+
 <h1 align="center">Hi 👋, I'm Bibek Gupta</h1>
 
 <h3 align="center">
@@ -540,6 +541,51 @@ AI Automation <br><br>
     src="https://github-readme-activity-graph.vercel.app/graph?username=Bibek-Gupta14&theme=coral&hide_border=true&area=true"
   />
 </p>
+
+<br>
+
+<br> 
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=38&duration=4500&pause=1000&color=DCF722&center=true&vCenter=true&width=431&lines=PLAYER'S+SCOUT+REPORT"/>
+</p>
+
+<div align="center">
+  <table border="3">
+    <tr valign="middle">
+      <td>
+        <a href="https://gitfut.com/Bibek-Gupta14" target="_blank" rel="noopener noreferrer">
+          <img src="https://gitfut.com/Bibek-Gupta14.png" width="250" alt="Bibek Gupta GitFut Card" />
+        </a>
+      </td>
+      <td>
+        <table border="1">
+          <thead>
+            <tr>
+              <th colspan="3"><h3>Attributes</h3></th>
+            </tr>
+            <tr>
+              <th align="center">STAT</th>
+              <th align="center">ATTRIBUTE</th>
+              <th align="center">SCOUTED FROM</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td align="center">⚡</td><td align="center"><b>Pace</td><td><i>Commits in the last year</i></td></tr>
+            <tr><td align="center">🎯</td><td align="center"><b>Shooting</td><td><i>Stars earned across repos</td></tr>
+            <tr><td align="center">👟</td><td align="center"><b>Passing</td><td><i>Pull requests + followers</td></tr>
+            <tr><td align="center">🪄</td><td align="center"><b>Dribbling</td><td><i>Language diversity</td></tr>
+            <tr><td align="center">🛡️</td><td align="center"><b>Defending</td><td><i>Reviews + issues</td></tr>
+            <tr><td align="center">💪</td><td align="center"><b>Physical</td><td><i>Lifetime contributions</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
 
