@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:2E6430,100:A1E8AF&text=WELCOME%20TO%20MY%20PROFILE&fontFamily=Comic%20Sans%20MS&animation=twinkling&fontColor=06142E&fontSize=40&height=100&section=header"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:E5DE00,50:72BF6A,100:00FF00&text=WELCOME%20TO%20MY%20PROFILE&fontFamily=Comic%20Sans%20MS&animation=twinkling&fontColor=06142E&fontSize=40&height=100&section=header"
   />
 </p>
 
