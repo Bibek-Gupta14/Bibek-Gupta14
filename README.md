@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Passionate+GenAI+Developer;Multi-Agent+Systems+Builder;Aspiring+Software+Engineer;Summer+Intern+%40+NIC" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Passionate+GenAI+Developer;Multi-Agent+Systems+Builder;Aspiring+Software+Engineer;Ex-Summer+Intern+%40+NIC" />
 </p>
 
 <br>
@@ -34,7 +34,7 @@
 
 <p align="left"> <a href="https://twitter.com/bibekgupta1406" target="blank"><img src="https://img.shields.io/twitter/follow/bibekgupta1406?logo=twitter&style=for-the-badge" alt="bibekgupta1406" /></a> </p>
 
-- 👨🏼‍💼 I’m currently working as a ***Summer Intern*** at **National Informatics Center (NIC), Meghalaya**
+- 👨🏼‍💼 I worked as a ***Summer Intern*** at **National Informatics Center (NIC), Meghalaya**
 
 - 🌱 Gaining experiences in  **GenAI and Multi-Agent Systems**
 
